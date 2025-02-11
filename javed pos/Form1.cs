@@ -16,5 +16,10 @@ namespace javed_pos
         {
             InitializeComponent();
         }
+
+        private void lblMessage_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
